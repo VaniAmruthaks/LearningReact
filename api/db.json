@@ -1,0 +1,100 @@
+{
+  "restaurants" : [
+    {
+      "id": 1,
+      "name": "Italian Kitchen",
+      "cuisine": "Italian",
+      "rating": 4.5,
+      "deliveryTime": 30,
+      "menu": [
+        { "id": 101, "name": "Margherita Pizza", "price": 12, "image": "https://via.placeholder.com/100" },
+        { "id": 102, "name": "Pasta Carbonara", "price": 14, "image": "https://via.placeholder.com/100" },
+        { "id": 103, "name": "Lasagna", "price": 15, "image": "https://via.placeholder.com/100" },
+        { "id": 104, "name": "Bruschetta", "price": 7, "image": "https://via.placeholder.com/100" },
+        { "id": 105, "name": "Tiramisu", "price": 6, "image": "https://via.placeholder.com/100" },
+        { "id": 106, "name": "Risotto", "price": 13, "image": "https://via.placeholder.com/100" },
+        { "id": 107, "name": "Focaccia Bread", "price": 5, "image": "https://via.placeholder.com/100" },
+        { "id": 108, "name": "Panna Cotta", "price": 6, "image": "https://via.placeholder.com/100" },
+        { "id": 109, "name": "Gnocchi", "price": 12, "image": "https://via.placeholder.com/100" },
+        { "id": 110, "name": "Caprese Salad", "price": 8, "image": "https://via.placeholder.com/100" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Curry House",
+      "cuisine": "Indian",
+      "rating": 4.7,
+      "deliveryTime": 25,
+      "menu": [
+        { "id": 201, "name": "Butter Chicken", "price": 12, "image": "https://via.placeholder.com/100" },
+        { "id": 202, "name": "Paneer Tikka", "price": 10, "image": "https://via.placeholder.com/100" },
+        { "id": 203, "name": "Biryani", "price": 14, "image": "https://via.placeholder.com/100" },
+        { "id": 204, "name": "Naan Bread", "price": 3, "image": "https://via.placeholder.com/100" },
+        { "id": 205, "name": "Chole Bhature", "price": 8, "image": "https://via.placeholder.com/100" },
+        { "id": 206, "name": "Dal Makhani", "price": 9, "image": "https://via.placeholder.com/100" },
+        { "id": 207, "name": "Samosa", "price": 4, "image": "https://via.placeholder.com/100" },
+        { "id": 208, "name": "Rasgulla", "price": 5, "image": "https://via.placeholder.com/100" },
+        { "id": 209, "name": "Pulao", "price": 11, "image": "https://via.placeholder.com/100" },
+        { "id": 210, "name": "Tandoori Chicken", "price": 13, "image": "https://via.placeholder.com/100" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sushi World",
+      "cuisine": "Japanese",
+      "rating": 4.8,
+      "deliveryTime": 35,
+      "menu": [
+        { "id": 301, "name": "Salmon Sushi", "price": 10, "image": "https://via.placeholder.com/100" },
+        { "id": 302, "name": "Tuna Roll", "price": 12, "image": "https://via.placeholder.com/100" },
+        { "id": 303, "name": "Tempura", "price": 14, "image": "https://via.placeholder.com/100" },
+        { "id": 304, "name": "Miso Soup", "price": 6, "image": "https://via.placeholder.com/100" },
+        { "id": 305, "name": "Sashimi Platter", "price": 18, "image": "https://via.placeholder.com/100" },
+        { "id": 306, "name": "California Roll", "price": 11, "image": "https://via.placeholder.com/100" },
+        { "id": 307, "name": "Udon Noodles", "price": 12, "image": "https://via.placeholder.com/100" },
+        { "id": 308, "name": "Edamame", "price": 5, "image": "https://via.placeholder.com/100" },
+        { "id": 309, "name": "Teriyaki Chicken", "price": 13, "image": "https://via.placeholder.com/100" },
+        { "id": 310, "name": "Gyoza", "price": 7, "image": "https://via.placeholder.com/100" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Burger Town",
+      "cuisine": "American",
+      "rating": 4.3,
+      "deliveryTime": 20,
+      "menu": [
+        { "id": 401, "name": "Cheeseburger", "price": 8, "image": "https://via.placeholder.com/100" },
+        { "id": 402, "name": "Veggie Burger", "price": 7, "image": "https://via.placeholder.com/100" },
+        { "id": 403, "name": "Fries", "price": 3, "image": "https://via.placeholder.com/100" },
+        { "id": 404, "name": "Onion Rings", "price": 4, "image": "https://via.placeholder.com/100" },
+        { "id": 405, "name": "Chicken Nuggets", "price": 6, "image": "https://via.placeholder.com/100" },
+        { "id": 406, "name": "BBQ Burger", "price": 9, "image": "https://via.placeholder.com/100" },
+        { "id": 407, "name": "Milkshake", "price": 5, "image": "https://via.placeholder.com/100" },
+        { "id": 408, "name": "Soft Drink", "price": 2, "image": "https://via.placeholder.com/100" },
+        { "id": 409, "name": "Double Cheeseburger", "price": 10, "image": "https://via.placeholder.com/100" },
+        { "id": 410, "name": "Bacon Burger", "price": 11, "image": "https://via.placeholder.com/100" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dragon Wok",
+      "cuisine": "Chinese",
+      "rating": 4.6,
+      "deliveryTime": 28,
+      "menu": [
+        { "id": 501, "name": "Kung Pao Chicken", "price": 12, "image": "https://via.placeholder.com/100" },
+        { "id": 502, "name": "Fried Rice", "price": 9, "image": "https://via.placeholder.com/100" },
+        { "id": 503, "name": "Spring Rolls", "price": 6, "image": "https://via.placeholder.com/100" },
+        { "id": 504, "name": "Sweet and Sour Pork", "price": 13, "image": "https://via.placeholder.com/100" },
+        { "id": 505, "name": "Chow Mein", "price": 11, "image": "https://via.placeholder.com/100" },
+        { "id": 506, "name": "Dumplings", "price": 7, "image": "https://via.placeholder.com/100" },
+        { "id": 507, "name": "Szechuan Tofu", "price": 10, "image": "https://via.placeholder.com/100" },
+        { "id": 508, "name": "Hot and Sour Soup", "price": 5, "image": "https://via.placeholder.com/100" },
+        { "id": 509, "name": "Peking Duck", "price": 18, "image": "https://via.placeholder.com/100" },
+        { "id": 510, "name": "Beef with Broccoli", "price": 14, "image": "https://via.placeholder.com/100" }
+      ]
+    }
+    
+  ]
+}
